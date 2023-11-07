@@ -1,0 +1,7 @@
+{
+  "name": "onepice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
